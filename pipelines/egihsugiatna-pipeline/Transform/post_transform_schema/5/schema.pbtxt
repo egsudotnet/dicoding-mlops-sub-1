@@ -1,5 +1,5 @@
 feature {
-  name: "is_stress_xf"
+  name: "label_xf"
   type: INT
   presence {
     min_fraction: 1.0

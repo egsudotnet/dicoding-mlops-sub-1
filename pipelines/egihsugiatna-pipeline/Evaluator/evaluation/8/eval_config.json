@@ -2,7 +2,7 @@
   "evalConfig": {
     "modelSpecs": [
       {
-        "labelKey": "is_stress"
+        "labelKey": "label"
       }
     ],
     "slicingSpecs": [

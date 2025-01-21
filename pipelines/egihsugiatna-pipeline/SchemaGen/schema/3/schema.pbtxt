@@ -1,5 +1,5 @@
 feature {
-  name: "is_stress"
+  name: "label"
   type: INT
   bool_domain {
   }

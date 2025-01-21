@@ -1,0 +1,5 @@
+docker build -t stress-detection-tf-serving .
+
+ 
+
+docker run -p 8080:8501 stress-detection-tf-serving
